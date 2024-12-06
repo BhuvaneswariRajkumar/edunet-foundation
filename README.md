@@ -1,1 +1,1 @@
-# edunet-foundation - customer segmentation
+# Edunet-foundation - Customer segmentation
